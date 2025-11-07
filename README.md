@@ -93,8 +93,8 @@ Una vez entrenado el modelo, se aplicó el detector a **dos vídeos grabados par
 
 A continuación se incluyen los resultados visuales del modelo en ambos vídeos (GIFs):
 
-![](./gif/gif_matriculas_detras)
-![](./gif/gif_matriculas_delante)
+![](./gifs/gif_matriculas_delante.gif)
+![](./gifs/gif_matriculas_detras.gif)
 
 Además los resultados del procesamiento se volcarón en dos archivos csv "detecciones_video_delante.csv" y "detecciones_video_delante.csv" guardando la siguiente información:
 
