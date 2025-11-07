@@ -28,7 +28,7 @@ A continuación, se explica brevemente el significado de los principales paráme
 - `epochs=150` → número de épocas de entrenamiento.  
 - `imgsz=640` → tamaño de las imágenes de entrada.  
 - `batch=16` → tamaño del lote de entrenamiento.  
-- `device=0` → GPU utilizada (en este caso, la primera).  
+- `device=0` → GPU utilizada (en este caso, una rtx 4060 laptop).  
 - `degrees`, `translate`, `scale`, `shear`, `perspective` → transformaciones de *data augmentation*.  
 - `flipud` / `fliplr` → inversión vertical u horizontal de las imágenes.  
 - `mosaic` / `mixup` → técnicas de *data augmentation* para combinar imágenes y mejorar la robustez del modelo.
